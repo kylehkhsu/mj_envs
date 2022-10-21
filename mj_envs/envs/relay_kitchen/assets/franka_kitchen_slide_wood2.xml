@@ -16,7 +16,7 @@
     <include file="../../../sims/furniture_sim/oven/oven_asset.xml"/>
     <include file="../../../sims/furniture_sim/counters/counters_asset.xml"/>
     <include file="../../../sims/furniture_sim/backwall/backwall_asset.xml"/>
-    <include file="../../../sims/furniture_sim/slidecabinet/slidecabinet_asset.xml"/>
+    <include file="../../../sims/furniture_sim/slidecabinet/slidecabinet_wood1_asset.xml"/>
     <include file="../../../sims/furniture_sim/hingecabinet/hingecabinet_asset.xml"/>
     <include file="../../../sims/furniture_sim/microwave/microwave_asset.xml"/>
     <include file="../../../sims/furniture_sim/kettle/kettle_asset.xml"/>

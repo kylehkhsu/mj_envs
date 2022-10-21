@@ -8,7 +8,7 @@
 ====================================================== -©vk©-->
     <size njmax='2000' nconmax='2000'/>
 
-    <include file="basic_scene.xml"/>
+    <include file="basic_scene_brighter.xml"/>
     <include file="../../../sims/franka_sim/assets/assets.xml"/>
     <include file="../../../sims/franka_sim/assets/gripper_assets.xml"/>
     <include file="../../../sims/franka_sim/assets/actuator0.xml"/>
